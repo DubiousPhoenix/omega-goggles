@@ -4,4 +4,8 @@
 ! author: DubiousPhoenix
 ! avatar: #FADF00
 
+! Blacklist
 $discard,site=polygon.com
+
+! Encourage these results
+$boost=3,site=reddit.com
