@@ -9,3 +9,4 @@ $discard,site=polygon.com
 
 ! Encourage these results
 $boost=3,site=reddit.com
+$boost=3,site=destructoid.com
