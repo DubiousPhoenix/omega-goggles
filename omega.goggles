@@ -14,6 +14,13 @@ $discard,site=macrumors.com
 $discard,site=tiktok.com
 $discard,site=community.brave.com
 $discard,site=linuxpip.org
+$discard,site=sumansharma07.com.np
+$discard,site=beebom.com
+$discard,site=geeksforgeeks.org
+$discard,site=lifehacker.com
+$discard,site=alternativeto.net
+$discard,site=androidpolice.com
+$discard,site=dataconomy.com
 
 
 
@@ -27,3 +34,5 @@ $boost=3,site=reddit.com
 $boost=3,site=destructoid.com
 $boost=3,site=news.ycombinator.com
 $boost=3,site=wired.com
+$boost=3,site=lemmy.ml
+
