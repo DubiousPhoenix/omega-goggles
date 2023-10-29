@@ -6,6 +6,17 @@
 
 ! Blacklist
 $discard,site=polygon.com
+$discard,site=medium.com
+$discard,site=quora.com
+$discard,site=ign.com
+$discard,site=kids.nationalgeographic.com
+
+
+
+! Discourage these results
+$downrank,site=twitter.com
+$downrank,site=x.com
+
 
 ! Encourage these results
 $boost=3,site=reddit.com
