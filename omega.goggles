@@ -24,3 +24,5 @@ $downrank,site=x.com
 ! Encourage these results
 $boost=3,site=reddit.com
 $boost=3,site=destructoid.com
+$boost=3,site=news.ycombinator.com
+$boost=3,site=wired.com
